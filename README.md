@@ -1,2 +1,2 @@
 # traffic_regulation_app
-This software predicts optimal routes using Dijkstra's algorithm based on real-time traffic speed and road density.
+This software predicts optimal routes using Dijkstra's algorithm based on real-time traffic speed and road density.It employs Geopy for geocoding and reverse geocoding, enhancing location accuracy, and integrates TomTom API for real-time traffic data. Dijkstra's algorithm is applied to suggest optimal routes based on traffic speed and density. NetworkX visualizes graph logic, Flask manages backend operations, and Figma designs an interactive UI/UX. Randomized simulations depict roadblocks and rerouting scenarios, offering users an informative and efficient traffic management tool.
