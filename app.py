@@ -26,7 +26,7 @@ version_number = "4"
 style = "relative"
 zoom = "12"
 format = "json"
-api_key = "L0Xj943A4jttdtCPohFfcuoVOuuudYFq"
+api_key = ""
 thickness = '5'
 
 
